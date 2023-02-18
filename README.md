@@ -10,7 +10,7 @@
 
 
 ## Key Insights for Presentation
-Below are some of the insights
+Below are some of the key insights.
 * Loans with higher Borrower's Annual Percentage Rate and Lender Yield tend to have a lower Prosper Score
 * A srtong postive correlation was observed between Borrower's APR and the Lender Yield
 * As the Borrower's APR increases, the Prosper Score tend to decrease, which translate to a negative correlation
