@@ -1,5 +1,4 @@
-# Exploratory & Explanatory Data Analysis of Prosper Loan
-## BY Yahaya Musa Kayode
+## Exploratory & Explanatory Data Analysis of Prosper Loan
 
 ## Dataset
 
