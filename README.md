@@ -1,4 +1,4 @@
-## Exploratory & Explanatory Data Analysis of Prosper Loan
+## Data Analytics of Prosper Loan
 
 ## Dataset
 
@@ -8,7 +8,7 @@ The dataset used in this project contained 113,937 loan records with 81 variable
 After an in-depth analysis, the data revealed that the majority of the borrowers are employed as they dominate more than half of the loan records. As the Borrower's Annual Percentage Rate increases, the Leander Yield tends to increase, on the other hand, a negative correlation was observed between Borrower's Annual Percentage Ratand and Proster Score. The major reason for borrowing appears to be debt consolidation.
 
 
-## Key Insights for Presentation
+## Key Insights
 Below are some of the key insights.
 * Loans with higher Borrower's Annual Percentage Rate and Lender Yield tend to have a lower Prosper Score
 * A strong positive correlation was observed between Borrower's APR and the Lender's Yield
