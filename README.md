@@ -14,5 +14,5 @@ Below are some of the key insights.
 * A strong positive correlation was observed between Borrower's APR and the Lender's Yield
 * As the Borrower's APR increases, the Prosper Score tends to decrease, which translates to a negative correlation
 * The data revealed that the major reason for taking a loan is debt consolidation 
-* Borrowers that are employed and perhaps with high monthly income appear to take high loans
+* Borrowers that are employed with high monthly income appear to take high loans
 * Borrower's APR has an almost normal distribution, with an exceptional count when it was 0.35797% and 0.35643%.
